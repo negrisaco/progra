@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\monillospc\desktop\gaby\facu\programacion\2do cuatri 2020\resolucion guia tp\tda\pruebapilatda_din\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603149187 source:c:\users\gaby\desktop\tda\lineasdetexto\lineasdetexto.c
+
+1603157806 source:c:\users\gaby\desktop\tda\productos\productos.c
+	"productos.h"
+
+1603149818 c:\users\gaby\desktop\tda\productos\productos.h
+	<stdio.h>
+
+1602813685 source:c:\users\gaby\desktop\tda\pruebapilatda_din\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1602809060 c:\users\gaby\desktop\tda\pruebapilatda_din\main.h
+

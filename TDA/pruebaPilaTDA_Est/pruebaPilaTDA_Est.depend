@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1603223273 source:c:\users\gaby\desktop\tda\pruebapilatda_est\main.c
+	"main.h"
+
+1603219636 c:\users\gaby\desktop\tda\pruebapilatda_est\main.h
+	<stdio.h>
+	"../productos/productos.h"
+	"../lineasDeTexto/lineasDeTexto.h"
+
+1603218564 source:c:\users\gaby\desktop\tda\pilaestatica\pila.c
+	"pila.h"
+
+1603218625 c:\users\gaby\desktop\tda\pilaestatica\pila.h
+	<string.h>
+
+1603222494 source:c:\users\gaby\desktop\tda\lineasdetexto\lineasdetexto.c
+	"lineasDeTexto.h"
+
+1603157806 source:c:\users\gaby\desktop\tda\productos\productos.c
+	"productos.h"
+
+1603149818 c:\users\gaby\desktop\tda\productos\productos.h
+	<stdio.h>
+
+1603220805 c:\users\gaby\desktop\tda\lineasdetexto\lineasdetexto.h
+	<string.h>
+
